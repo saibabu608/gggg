@@ -4,7 +4,7 @@ st.header('Great Dane')
 st.write('Great Dane')
 
 # Use a valid image URL
-image_url = 'https://images.ctfassets.net/440y9b545yd9/3TzZVoOLDSA79qhNhdyXIK/bc2583abe9daf8591e0aaef69ef616ee/GreatDane850.jpg'
+image_url = 'https://i.pinimg.com/564x/a8/9d/1f/a89d1f6c464815988992f35a2e3b9ca0.jpg'
 # Display the image with a caption
 st.image(image_url, caption='Great Dane')
 
