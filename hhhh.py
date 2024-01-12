@@ -9,7 +9,7 @@ image_url = 'https://images.ctfassets.net/440y9b545yd9/3TzZVoOLDSA79qhNhdyXIK/bc
 st.image(image_url, caption='Toyota Supra')
 
 # You can also add alternative text for accessibility
-# st.image(image_url, caption='Toyota Supra', alt='Toyota Supra Image')
+# st.image(image_url, caption='Great Dane', alt='Toyota Supra Image')
 
 
 
